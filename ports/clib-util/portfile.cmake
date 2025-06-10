@@ -1,14 +1,9 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
-    REPO yourrepo/clib-util
-    REF master
-    SHA512 ""
+    REPO mrgallew/clib-util
+    REF main
+    SHA512 0
+    HEAD_REF main
 )
 
-vcpkg_configure_cmake(
-    SOURCE_PATH ${SOURCE_PATH}
-)
-
-vcpkg_install_cmake()
-
-vcpkg_copy_pdbs()
+file(INSTALL "${SOURCE_PATH}/include" DESTINATION "${CURRENT_PACKAGES_DIR}/include")

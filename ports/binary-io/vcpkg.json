@@ -1,7 +1,7 @@
 {
   "name": "binary-io",
   "version-string": "1.0.0",
-  "description": "Simple binary input/output library",
-  "homepage": "https://github.com/yourrepo/binary-io",
+  "description": "Header-only C++ library for binary file operations",
+  "homepage": "https://github.com/mrgallew/binary-io",
   "license": "MIT"
 }

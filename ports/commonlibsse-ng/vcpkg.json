@@ -1,7 +1,7 @@
 {
   "name": "commonlibsse-ng",
   "version-string": "1.0.0",
-  "description": "CommonLibSSE Next Generation",
-  "homepage": "https://github.com/yourrepo/commonlibsse-ng",
+  "description": "Skyrim SE modding library (CommonLibSSE NG fork)",
+  "homepage": "https://github.com/mrgallew/CommonLibSSE-NG",
   "license": "MIT"
 }
