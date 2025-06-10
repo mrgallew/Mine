@@ -1,0 +1,7 @@
+{
+  "default": {
+    "binary-io": "1.0.0",
+    "clib-util": "1.0.0",
+    "commonlibsse-ng": "1.0.0"
+  }
+}
