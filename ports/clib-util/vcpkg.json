@@ -1,0 +1,7 @@
+{
+  "name": "clib-util",
+  "version-string": "1.0.0",
+  "description": "Utility functions for C projects",
+  "homepage": "https://github.com/yourrepo/clib-util",
+  "license": "MIT"
+}
