@@ -1,7 +1,7 @@
 {
   "default": {
-    "clib-util": "1.0.0",
-    "binary-io": "1.0.0",
-    "commonlibsse-ng": "1.0.0"
+    "clib-util": { "baseline": "1.0.0" },
+    "binary-io": { "baseline": "1.0.0" },
+    "commonlibsse-ng": { "baseline": "1.0.0" }
   }
 }
